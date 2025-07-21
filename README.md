@@ -1,6 +1,6 @@
-# UEFA Women's EURO 2025:  Can You Win Without the Ball? Norway vs Italy, a Clash of Counterattack Styles
+# UEFA Women's EURO 2025: Tactical Shift of the 38% Possession Team: How Italy Changed Their Style
 
-This project uses key metrics and match data to predict whether Norway or Italy will advance to the semifinlas in the UEFA Women’s EURO 2025.
+This project uses key metrics and match data to analyze how Italy won with low possession. 
 
 ---
 
