@@ -33,15 +33,14 @@ This project uses key metrics and match data to analyze how Italy won with low p
 
 ---
 
+wteam_avg.csv
 ## 📁 File Descriptions
 
 | Filename                | Description                                               |
 |-------------------------|-----------------------------------------------------------|
-| `round1_3.csv`  | Raw match data including shots, xG, etc. per Team |
+| `quaterfinals.csv`  | Raw match data including shots, xG, etc. per Team |
 | `wteam_avg.csv`          | Processed Average of Italy and Norway from round1_3.csv  |
-|  `nor_italy.ipynb`    | Jupyter Notebook with data analysis and visualization code        |
-|  `Possession.png`    | Visualization of Possession about Norway vs Italy        |
-| `defense_metrics_comparison.png` | Visualization of defense data about Norway vs Italy        |
-| `attack_metrics_comparison.png` | Visualization of attack data about Norway vs Italy           |
+|  `nor_vs_italy.ipynb`    | Jupyter Notebook with data analysis and visualization code        |
+| `italy_norway_slopecharts.png` | Visualization of defense data about Norway vs Italy        |
 
-Creation date: 15 July, 2025
+Creation date: 17 July, 2025
